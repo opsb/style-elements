@@ -26,7 +26,7 @@ apply root =
 
 tagIntermediates : Bool
 tagIntermediates =
-    False
+    True
 
 
 tag : String -> Attribute variation msg
